@@ -1,0 +1,25 @@
+/*Style.css*/
+
+.headers{
+    text-align: center;
+    color: #9841bb;
+    font-family: Helvetica, Arial, "Sans-serif";
+}
+
+.list{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.link{
+    background-color: yellow;
+    font-family: Helvetica, Arial, "Sans-serif";
+    font-size: 32px;
+}
+
+.text{
+    text-align: center;
+    list-style-position: inside;
+    font-family: Helvetica, Arial, "Sans-serif";
+    font-size: 32px;
+}
